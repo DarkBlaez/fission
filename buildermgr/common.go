@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/dchest/uniuri"
-	"github.com/fission/fission"
-	"github.com/fission/fission/builder"
-	builderClient "github.com/fission/fission/builder/client"
-	"github.com/fission/fission/crd"
-	fetcherClient "github.com/fission/fission/environments/fetcher/client"
+	"github.com/DarkBlaez/fission"
+	"github.com/DarkBlaez/fission/builder"
+	builderClient "github.com/DarkBlaez/fission/builder/client"
+	"github.com/DarkBlaez/fission/crd"
+	fetcherClient "github.com/DarkBlaez/fission/environments/fetcher/client"
 )
 
 // buildPackage helps to build source package into deployment package.
