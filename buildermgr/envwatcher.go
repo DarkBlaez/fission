@@ -31,8 +31,8 @@ import (
 	"k8s.io/apimachinery/pkg/watch"
 	"k8s.io/client-go/kubernetes"
 
-	"github.com/fission/fission"
-	"github.com/fission/fission/crd"
+	"github.com/DarkBlaez/fission"
+	"github.com/DarkBlaez/fission/crd"
 )
 
 type requestType int
