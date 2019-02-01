@@ -27,9 +27,9 @@ import (
 	"k8s.io/apimachinery/pkg/fields"
 	k8sCache "k8s.io/client-go/tools/cache"
 
-	"github.com/fission/fission"
-	"github.com/fission/fission/cache"
-	"github.com/fission/fission/crd"
+	"github.com/DarkBlaez/fission"
+	"github.com/DarkBlaez/fission/cache"
+	"github.com/DarkBlaez/fission/crd"
 	"k8s.io/client-go/kubernetes"
 )
 
