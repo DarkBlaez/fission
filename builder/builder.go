@@ -34,7 +34,7 @@ import (
 
 	"github.com/dchest/uniuri"
 
-	"github.com/fission/fission"
+	"github.com/DarkBlaez/fission"
 )
 
 const (
