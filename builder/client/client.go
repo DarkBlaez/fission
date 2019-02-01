@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fission/fission"
+	"github.com/DarkBlaez/fission"
 	builder "github.com/fission/fission/builder"
 )
 
